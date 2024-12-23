@@ -1,1 +1,0 @@
-import{a as r,t as i,s as l}from"./disclose-version.CsTQ21i_.js";import{t as o,c as p,r as v}from"./utils.B2AQxnli.js";var m=i('<div class="svelte-z0g2bi"> </div>');function f(e,a){var t=m(),s=p(t,!0);v(t),o(()=>l(s,a.label)),r(e,t)}export{f as P};
