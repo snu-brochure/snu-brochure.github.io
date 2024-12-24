@@ -1,0 +1,1 @@
+import{a as r,t as o,s as i}from"./disclose-version.BJIDSdl6.js";import{t as l,c as p,r as v}from"./utils.B9bdwVKL.js";var f=o('<div class="svelte-11phof3"> </div>');function d(e,a){var t=f(),s=p(t,!0);v(t),l(()=>i(s,a.label)),r(e,t)}export{d as P};
