@@ -72,7 +72,7 @@ import{a,t as f,b as r,n as rr,c as Mt,d as vr,e as Ls}from"./disclose-version.4
 					society to come. By developing core academic disciplines and
 					fostering talent at the forefront of innovation, we are not
 					only meeting the demands of society but also leading
-					innovation in science and technology.`);a(n,_)};c(yt,n=>{i()==="ko"?n(wt):n(xt,!1)})}e(ut),e(J);var p=l(J,2),L=t(p),_t=t(L);{var b=n=>{var _=r("공동체 의식과 글로벌 역량을 갖춘 리더 양성");a(n,_)},E=n=>{var _=r(`Developing leaders with community spirit and and global
+					innovation in science and technology.`);a(n,_)};c(yt,n=>{i()==="ko"?n(wt):n(xt,!1)})}e(ut),e(J);var p=l(J,2),L=t(p),_t=t(L);{var b=n=>{var _=r("공동체 의식과 글로벌 역량을 갖춘 리더 양성");a(n,_)},E=n=>{var _=r(`Developing leaders with community spirit and global
 					capabilities`);a(n,_)};c(_t,n=>{i()==="ko"?n(b):n(E,!1)})}e(L);var nt=l(L,4),ot=t(nt);{var ft=n=>{var _=r(`서울대학교는 개인의 탁월한 성취를 넘어 공동체에 대한
 					책임감을 바탕으로 글로벌 사회에 기여하는 리더 양성을 목표로
 					합니다. 다양한 가치와 보편적 문제에 대해 깊이 고민하며,
